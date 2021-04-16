@@ -136,7 +136,7 @@ _, GM_SUN = spiceypy.bodvcd(bodyid=10, item='GM', maxn=1)
 
 
 V_Func = lambda gm, r: math.sqrt(gm/r)
-velocity_Theory = V_Func(GM_SUN[0], EARTH_SUN_DISTANCE)
+velocity_Theory = V_Func(GM_SUN[0], Earth_Sun_Dinstance)
 
 
 print('Theoretical orbital speed of the Earth around the Sun in km/s:', velocity_Theory)
