@@ -1,0 +1,10 @@
+Hello 
+my name is mohamed sobhi,Iam studing in faculty of navigation science and space technology in Bin seuf university.
+
+my program is how to calculate position and velocity of Earth and calculate the distance between the earth and the sun.¶
+ 
+install libraries with "pip install +library name "
+
+if you have any questions contact with me 
+
+my linkedin profile("https://www.linkedin.com/in/mohamed-sobhi-ba1554185")
